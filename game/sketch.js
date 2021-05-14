@@ -23,7 +23,7 @@ function setup() {
 }
 
 function restart() {
-    console.log('restatubg');
+    console.log('restarting');
     game.init();
     loop();
 }
